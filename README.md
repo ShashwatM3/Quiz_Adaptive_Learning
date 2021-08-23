@@ -7,7 +7,7 @@ There are a total of three levels in this quiz :-
 + Medium Level
 + Hard Level
 
-The quiz uses machine learning to predict whether to upgrade or downgrade the level based upon the answers given by the user.
+There are 9 questions in total in this quiz, machine learning is being used to predict whether to upgrade or downgrade the level based upon the answers given by the user.
 
 Files in this repository :- 
 + main.py -> The main code of quiz, coded using Python
